@@ -15,13 +15,16 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
     "expect": "^23.1.0",
     "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
     "mocha": "^5.2.0",
     "mongodb": "^3.0.10",
     "mongoose": "^5.1.4",
     "nodemon": "^1.17.5",
-    "supertest": "^3.1.0"
+    "supertest": "^3.1.0",
+    "validator": "^5.6.0"
   }
 }
